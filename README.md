@@ -1,0 +1,1 @@
+- 👋 Hi, I’m Tristan Leuridan. I am an aerospace engineer and I currently developped a method for manoeuvre prediction of continuous low thrust manoeuvres using SINDy.
